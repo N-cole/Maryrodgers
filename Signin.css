@@ -1,2 +1,17 @@
-body{ 
-background:pink: 
+.form-page_form-wrapper{ 
+      background-color:#800020; 
+      max-width:325px; 
+      width:100%; 
+      border:1px solid #FFFFFF; 
+} 
+#username.form_field-input{  
+    background-color:#fff; 
+    color:#f3f3f3;  
+    border:1px thin #d3d3d3; 
+} 
+#password.form_field-input{  
+   background-color:#fff; 
+    color:#f3f3f3;  
+    border:1px thin #d3d3d3;  
+}
+  
