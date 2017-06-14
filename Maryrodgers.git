@@ -1,6 +1,0 @@
-$ git clone https://github.com/N-cole/Maryrodgers.github.io 
-$ cd N-cole.github.io 
-$ echo "Maryrodgers"> M-Rodgerslanding.html
-$ git add--all 
-$ git commit -m "initial master"
-$ git push -u origin master
