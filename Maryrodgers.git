@@ -1,0 +1,4 @@
+$ git clone https://github.com/N-cole/Maryrodgers.github.io 
+$ cd Maryrodgers.github.io 
+$ echo "Maryrodger"
+$ git add
