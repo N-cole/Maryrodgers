@@ -12,7 +12,7 @@ Rodgers
     <li><a href="*">Contact</a></li>
     <li><a href="*">About</a></li>
     <li><a href="*">Checkout</a><li>
-    <li style="float:right"><a href="*">Sign up</a></li>
+    <li style="float:right"><a href="http://github.com/N-cole/Mryrodgers">Sign up</a></li>
 </ul>
 </h1>    
 </head>
