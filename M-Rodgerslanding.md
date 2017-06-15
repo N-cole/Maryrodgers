@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <html> 
-<link rel="stylesheet" type="text/css" href="http://github.com/N-cole/Maryrodgers/master/css/Pizzaz.css">
+<link rel="stylesheet" type="text/css" href="http://github.com/N-cole/Maryrodgers/master/Pizzaz.css">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open Sans">
 <head>
 <h1>
