@@ -6,6 +6,7 @@
 <h1>
 Mary
 Rodgers
+</h1>
 <ul> 
     <li><a href"http://github.com/N-cole/Maryrodgers/master/M-rodgerslanding.html">Home</a></li> 
     <li><a href="*">Gallery</a></li>
@@ -13,8 +14,7 @@ Rodgers
     <li><a href="*">About</a></li>
     <li><a href="*">Checkout</a><li>
     <li style="float:right"><a href="http://github.com/N-cole/Mryrodgers">Sign up</a></li>
-</ul>
-</h1>    
+</ul>    
 </head>
 
 <body>
